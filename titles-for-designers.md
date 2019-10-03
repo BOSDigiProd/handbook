@@ -1,57 +1,57 @@
-# Titles for designers
+# Titler for designere
 
-We use the following criteria to assess the level and title of designers at DigiProd. These criteria aren't exhaustive, and they aren't mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
+Vi bruker følgende kriterier for å vurdere nivå og tittel på designere hos DigiProd. Disse kriteriene er ikke uttømmende, og de er ikke bare sjekklister. Vi bruker kriteriene som en guide for å ha individualiserte diskusjoner om karriereprogresjon.
 
-These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn't enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. DigiProd pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
+Disse kriteriene undersøker hovedsakelig omfanget av arbeid som noen er i stand til å takle uavhengig av på en rekke prosjekter over en lengre periode (å gjøre noe bra en gang er ikke nok til å rettferdiggjøre fremskritt). I tillegg til den vurderingen, ser vi også på kvaliteten på selve utførelsen. DigiProd betaler i topp 10% av bransjen (basert på TEKNA), så kvaliteten på selve arbeidet bør være i samsvar med dette målet.
 
 ## Junior Designer
-* Work is thoroughly reviewed with substantial back-and-forth.
-* Works primarily on tightly scoped, single element, routine problems with another designer.
-* Follows existing design patterns, works within our existing look and feel.
-* Usually less than 2 years of experience being a professional designer.
-* WEB: Can write basic HTML/CSS with guidance.
-* MOBILE: Can create prototypes w/ static screens.
+* Arbeidet blir grundig gjennomgått av en senior designer, og krever mye frem og tilbake.
+* Fungerer først og fremst på et tett scoped, enkelt-element, rutineproblemer med en annen designer.
+* Følger eksisterende designmønstre, fungerer innenfor vårt eksisterende utseende og preg.
+* Vanligvis mindre enn 2 års erfaring som profesjonell designer.
+* WEB: Kan skrive grunnleggende HTML / CSS med veiledning.
+* MOBIL: Kan lage prototyper m / statiske skjermer.
 
 ## Designer
-* Work is reviewed with the occasional need for material direction or implementation changes.
-* Works mostly on tightly scoped features, individual screens, or small problems with another designer.
-* Usually at least 2-5 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS.
-* MOBILE: Can create basic prototypes demonstrating interactions and animations.
+* Arbeidet gjennomgås med sporadisk behov for materiell retning eller endringer i implementeringen.
+* Fungerer mest på tett scoped-funksjoner, individuelle skjermer eller små problemer med en annen designer.
+* Vanligvis minst 2-5 års erfaring som profesjonell designer.
+* WEB: Fullt i stand til å skrive moderne HTML / CSS.
+* MOBIL: Kan lage grunnleggende prototyper som demonstrerer interaksjoner og animasjoner.
 
-## Senior Designer
-* Work doesn't necessarily need to be reviewed, but general approach may be.
-* Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
-* Can occasionally run point on large batch projects, sometimes with assistance.
-* Usually at least 5-8 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
+## Senior designer
+* Arbeid trenger ikke nødvendigvis å bli gjennomgått, men generell tilnærming kan være.
+* Kan kjøre poeng på små batch-prosjekter, og tar dem fra konsept til frakt som eneste designer (sammen med en programmerer).
+* Kan av og til kjøre punkt på store batch-prosjekter, noen ganger med assistanse.
+* Vanligvis minst 5-8 års erfaring som profesjonell designer.
+* WEB: Fullt i stand til å skrive moderne HTML / CSS og grunnleggende ferdigheter i Javascript.
+* MOBIL: Kan lage detaljerte interaktive prototyper som demonstrerer flyter, interaksjoner og animasjoner.
 
 ## Lead Designer
-* Work happens completely autonomously without regular need for review.
-* Can run point on large batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
-* Can lead a small department or longer-term initiative.
-* Helps set and maintain professional standards for the entire organization.
-* Makes regular, material contributions to the look-and-feel of our general aesthetic and brand.
-* Usually at least 8-12 years of experience being a professional designer.
-* Typically at least 3-5 years experience at DigiProd internalizing how we work.
-* WEB: Fully capable of writing modern HTML/CSS/JS + the ability to make moderate progress in Rails.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
+* Arbeid skjer helt autonomt uten regelmessig behov for gjennomgang.
+* Kan kjøre poeng på store batch-prosjekter, og tar dem fra konsept til frakt som eneste designer (sammen med en programmerer).
+* Kan lede en liten avdeling eller et langsiktig initiativ.
+* Hjelper med å sette og opprettholde profesjonelle standarder for hele organisasjonen.
+* Gir regelmessige, materielle bidrag til utseendet og følelsen av vår generelle estetikk og merkevare.
+* Vanligvis minst 8-12 års erfaring som profesjonell designer.
+* Vanligvis minst 3-5 års erfaring med DigiProd med å internalisere hvordan vi jobber.
+* WEB: Fullt i stand til å skrive moderne HTML / CSS / JS + muligheten til å gjøre moderat fremgang i Rails.
+* MOBIL: Kan lage detaljerte interaktive prototyper som demonstrerer flyter, interaksjoner og animasjoner.
 
-_Examples: ???_
+_Examples: ??? _
 
-## Principal Designer
-* Can run point on our most complex, critical, big batch projects, taking them from concept to shipping as the sole designer (alongside one or more programmers).
-* Leads major product redesigns (from version 2 to 3, 3 to 4, etc).
-* Can spin up new concepts and prototype new products from scratch.
-* Regularly publishes and shares design process insights inside and outside the company.
-* Moves the industry forward by introducing novel techniques, approaches, or ideas.
-* Completely comfortable discussing complex application logic with programmers.
-* Usually at least 12-15+ years of experience being a professional designer.
-* Typically at least 5-7 years experience at DigiProd internalizing how we work.
-* WEB: Fully capable of writing their own HTML/CSS/JS + the ability to make significant progress in Rails.
-* WEB: Can spin up new Rails apps from scratch, and make initial progress without outside help.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
-* MOBILE: Can work in native environments and put together their own app from scratch.
+## Hoveddesigner
+* Kan kjøre poeng på våre mest komplekse, kritiske, store batch-prosjekter, og ta dem fra konsept til frakt som eneste designer (sammen med en eller flere programmerere).
+* Leder viktige redesign for produkter (fra versjon 2 til 3, 3 til 4 osv.).
+* Kan snurre nye konsepter og prototype nye produkter fra bunnen av.
+* Publiserer og deler regelmessig designprosessinnsikt i og utenfor selskapet.
+* Flytter industrien videre ved å introdusere nye teknikker, tilnærminger eller ideer.
+* Helt behagelig å diskutere kompleks applikasjonslogikk med programmerere.
+* Vanligvis minst 12-15 år med erfaring som profesjonell designer.
+* Vanligvis minst 5-7 års erfaring med DigiProd med å internalisere hvordan vi jobber.
+* WEB: Fullt i stand til å skrive sin egen HTML / CSS / JS + evnen til å gjøre betydelig fremgang i Rails.
+* WEB: Kan spinne opp nye Rails-apper fra bunnen av, og gjøre første fremgang uten hjelp utenfra.
+* MOBIL: Kan lage detaljerte interaktive prototyper som demonstrerer flyter, interaksjoner og animasjoner.
+* MOBIL: Kan jobbe i innfødte miljøer og sette sammen sin egen app fra bunnen av.
 
-_Examples: ???_
+_Examples: ??? _
