@@ -1,11 +1,11 @@
+# DevOps titler
 Vi bruker følgende kriterier for å vurdere nivå og tittel på designere i Bertel O. Steen. Disse kriteriene er ikke uttømmende, og de er ikke bare sjekklister. Vi bruker kriteriene som en guide for å ha individualiserte diskusjoner om karriereprogresjon.
 
 Disse kriteriene undersøker hovedsakelig omfanget av arbeid som noen er i stand til å takle uavhengig av på en rekke prosjekter over en lengre periode (å gjøre noe bra en gang er ikke nok til å rettferdiggjøre fremskritt). I tillegg til den vurderingen, ser vi også på kvaliteten på selve utførelsen. Bertel O. Steen betaler i øvre del av Tekna-statistikken, så kvaliteten på selve arbeidet bør være i samsvar med dette målet.
 
 Punktene prates om i forkant av året og i slutten av året for å se på status hva som er gjort og hva som må til
 
-
-##DevOps Engineer
+## DevOps Engineer
 1. Gjerne 2-3 års erfaring som programmerer eller vedlikeholder av infrastruktur (gjerne begge deler 😉)
 2. God kjennskap til aktuelt programmeringsspråk, men noen mer avansert(e) biblioteker/ kodestil er ennå ukjent
 3. Evner enda ikke å problemfritt følge mønstre og prosedyrer i eksisterende kodebaser
@@ -18,7 +18,7 @@ Punktene prates om i forkant av året og i slutten av året for å se på status
 10. 2-5 års utvikler
 
 
-##Senior DevOps Engineer
+## Senior DevOps Engineer
 1. Sparrer kanskje med lead/arkitekt på enkeltsaker, men jobber som regel selvstending
 2. Arbeidet trenger som regel ikke å bli sett over, men tilnærmingen bør snakkes om
 3. Trenger ikke samme nivå av bistand fra utviklingsteamet for å bistå med devops-arbeid
@@ -34,7 +34,7 @@ Punktene prates om i forkant av året og i slutten av året for å se på status
 13. Kjennskap til flesteparten av bedriftens valgte teknologier/ infrastruktur: (nettverk, konfigurasjonshåndtering, containere, orkestrering og andre store systemer, kjente prosesser og prosedyrer til lokalt domene)
 14. Bestemmer teknologivalg på egne prosjekter
 
-##Lead DevOps Engineer
+##  Lead DevOps Engineer
 1. Leverer som regel uten noe behov for gjennomgang av DevOps teamet
 2. Setter nye standarder for DevOps-teamet
 3. Følger eksisterende mønstre og tilnærmer seg eksisterende kode enkelt
@@ -52,7 +52,7 @@ Punktene prates om i forkant av året og i slutten av året for å se på status
 15. Pådriver av standarder for høy kodekvalitet / testing
 
 
-##(DevOps) Der Architect-führer
+## (DevOps) Der Architect-führer
 1. Dyp kjennskap og erfaring med flesteparten av bedriftens valgte teknologier/ infrastruktur: (konfigurasjonshåndtering, containere, CI / CD, debugging, orchestrations, optimalisering, nettverk, performance reliability and security (living list)
 2. Legger opp og definerer standardene for nettverk, konfigurasjonshåndtering, containere, orkestrering og andre store systemer, kjente prosesser og prosedyrer (best practice)
 3. Kommer med store bidrag og idéer til å forme avdelingen og nye initiativer
@@ -64,4 +64,3 @@ Punktene prates om i forkant av året og i slutten av året for å se på status
 9. Fullstending komfortabel å jobbe teknologiene i alle team Digiprod er involvert i
 10. Når en nettside er nede, noe er knekt, eller arbeidet er kaotisk er denne personen klar til å steppe inn og redde dagen og lede oss til en vellykket løsning - ûbermensch
 11. Bestemmer teknologivalg på tvers av bedriften
-
